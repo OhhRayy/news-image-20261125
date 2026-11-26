@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""make.fun entry: news-image-20261125 ("Wednesday Ascent").
+"""make.fun entry: news-image-20261125 ("Wednesday Full Edition").
 
 Copies the pre-rendered front page (entry.png, built by draw.py) to the
 make.fun output directory. Standard library only, no network, no randomness:
